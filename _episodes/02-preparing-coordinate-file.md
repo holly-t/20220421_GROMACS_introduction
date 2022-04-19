@@ -407,6 +407,7 @@ manual
 > > ```
 > > gmx editconf -f conf.gro -c -d 1 -bt cubic -o 5pep-box.gro
 > > ```
+> > {: .language-bash}
 > {: .solution}
 {: .challenge}
 
